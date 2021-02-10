@@ -1,6 +1,11 @@
-# MyFirstApp
+# Angular-TheCompleteGuide2021
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+Node JS - https://nodejs.org/en/
+
+Angular CLI - https://cli.angular.io
+
+
+
 
 ## Development server
 
